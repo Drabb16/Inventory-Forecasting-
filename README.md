@@ -1,4 +1,4 @@
-# Machine Learning for Retail Deman Forecasting
+# Machine Learning for Retail Demand Forecasting
 ## Demand Planning Optimization 
 For many retailers, demand planning systems follow a traditional rule-based approach to forecast and replenish orders. Such an approach is adequate for stable and predictable product categories, however, it is limited for optimization. This is especially true for products with a high stockout cost. The goal of this project is to accurately forecast demand for each item at each store to ensure each of the ten stores is properly stocked too meet demand while minimizing deliveries and inventory cost. 
 ## Benefits
